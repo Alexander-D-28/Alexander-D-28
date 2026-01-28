@@ -1,16 +1,9 @@
 ## Alexander Dobek | 2nd-Year Software Engineering @ MTU
-## 
 
-<!--
-**Alexander-D-28/Alexander-D-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I’m currently working on:  
+- Full-stack web projects  
+- Solving LeetCode problems  
+- Mentoring students in Data Structures & Algorithms  
+- Growing my skills to one day land an internship :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on full-stack web projects, solving LeetCode problems, and working as a student academic mentor for data structures and algorithms.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: I can solve 20+ different Rubik's Cubes
--->
+If you come across my profile, it’s a work in progress and will be updated over time.
